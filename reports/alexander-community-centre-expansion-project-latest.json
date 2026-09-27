@@ -1,0 +1,521 @@
+{
+  "mode": "live_refresh",
+  "consultation": {
+    "id": "con-community-3e371b0b921d6c",
+    "slug": "alexander-community-centre-expansion-project",
+    "title": "Alexander Community Centre Expansion Project",
+    "aliases": [],
+    "summary": "The project aims to expand the Alexander Community Centre to add a gymnasium and facility improvements. Full funding for the expansion was secured through the 2026 City budget.",
+    "topic": "Community submitted",
+    "location": "Ottawa",
+    "ward": null,
+    "department": "City of Ottawa",
+    "openedAt": null,
+    "closedAt": null,
+    "status": "results_published",
+    "latestUpdateAt": "2026-09-27",
+    "lastCheckedAt": "2026-09-27T04:16:19.336Z",
+    "matchLabel": "strong_match",
+    "buildStatus": "partial",
+    "buildCompleted": 4,
+    "buildTotal": 4,
+    "buildError": "AI analysis for Alexander Community Centre Expansion - What We Learned Report ENG.pdf: Semantic evidence excerpt was not found in src-community-828b7b0476c3bf: Community feedback indicates a strong desire for multi-purpose spaces that can accommodate a range o",
+    "sources": [
+      {
+        "id": "src-community-3e371b0b921d6c",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "url": "https://engage.ottawa.ca/alexander-community-centre",
+        "title": "Alexander Community Centre Expansion Project",
+        "documentType": "consultation_notice",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": null,
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "12522",
+            "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre"
+          },
+          {
+            "type": "engage_widget_id",
+            "value": "59966",
+            "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "69376",
+            "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "165586",
+            "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "168581",
+            "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre"
+          }
+        ],
+        "contentHash": "862610d201288153f1b76e68c34d797fc7988c3acddcfdffc872be8d734e97a5",
+        "firstSeenAt": "2026-09-27T03:56:20.410Z",
+        "lastCheckedAt": "2026-09-27T04:08:55.602Z",
+        "lastChangedAt": "2026-09-27T03:56:20.410Z",
+        "nextCheckAt": "2026-10-04T04:08:55.602Z",
+        "cadence": "weekly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": null,
+        "liveContentHash": "862610d201288153f1b76e68c34d797fc7988c3acddcfdffc872be8d734e97a5",
+        "lastLiveCheckedAt": "2026-09-27T04:08:55.602Z"
+      },
+      {
+        "id": "src-community-a5463111dcf9ac",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376",
+        "title": "Alexander Community Centre_What We Heard_Survey 2_ENG.docx",
+        "documentType": "consultation_results",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": null,
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "12522",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376"
+          },
+          {
+            "type": "engage_widget_id",
+            "value": "59966",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "69376",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376"
+          }
+        ],
+        "contentHash": "789559f10e2d73f4dc3a0644c113563b7d59fa6e86721ba5ae63830b26a563b3",
+        "firstSeenAt": "2026-09-27T03:56:20.410Z",
+        "lastCheckedAt": "2026-09-27T04:12:46.571Z",
+        "lastChangedAt": "2026-09-27T04:12:46.571Z",
+        "nextCheckAt": "2026-10-04T04:12:46.571Z",
+        "cadence": "weekly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": null,
+        "liveContentHash": "789559f10e2d73f4dc3a0644c113563b7d59fa6e86721ba5ae63830b26a563b3",
+        "lastLiveCheckedAt": "2026-09-27T04:12:46.571Z"
+      },
+      {
+        "id": "src-community-89e47a1aea10e0",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586",
+        "title": "260224_ACC_Public Meeting EN_FINAL-s.pdf",
+        "documentType": "other",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": null,
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "12522",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586"
+          },
+          {
+            "type": "engage_widget_id",
+            "value": "59966",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "165586",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586"
+          }
+        ],
+        "contentHash": "b0d6875e8ee17cd508c7cc8f096e2fb30d836f6961c0ba72b4ab7ce7e8f0a69e",
+        "firstSeenAt": "2026-09-27T03:56:20.410Z",
+        "lastCheckedAt": "2026-09-27T04:11:18.305Z",
+        "lastChangedAt": "2026-09-27T04:11:18.305Z",
+        "nextCheckAt": "2026-10-04T04:11:18.305Z",
+        "cadence": "weekly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": null,
+        "liveContentHash": "b0d6875e8ee17cd508c7cc8f096e2fb30d836f6961c0ba72b4ab7ce7e8f0a69e",
+        "lastLiveCheckedAt": "2026-09-27T04:11:18.305Z"
+      },
+      {
+        "id": "src-community-828b7b0476c3bf",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581",
+        "title": "Alexander Community Centre Expansion - What We Learned Report ENG.pdf",
+        "documentType": "consultation_results",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": null,
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "12522",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581"
+          },
+          {
+            "type": "engage_widget_id",
+            "value": "59966",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "168581",
+            "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581"
+          }
+        ],
+        "contentHash": "3d2a46c092b47313478268e981de336287c13b197fa9279aaaa078c379041cd6",
+        "firstSeenAt": "2026-09-27T03:56:20.410Z",
+        "lastCheckedAt": "2026-09-27T04:10:37.569Z",
+        "lastChangedAt": "2026-09-27T04:10:37.569Z",
+        "nextCheckAt": "2026-10-04T04:10:37.569Z",
+        "cadence": "weekly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": null,
+        "liveContentHash": "3d2a46c092b47313478268e981de336287c13b197fa9279aaaa078c379041cd6",
+        "lastLiveCheckedAt": "2026-09-27T04:10:37.569Z"
+      }
+    ],
+    "events": [
+      {
+        "id": "update-src-community-a5463111dcf9ac-789559f10e2d73f4",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "eventType": "source_update_detected",
+        "title": "New public update detected: Alexander Community Centre_What We Heard_Survey 2_ENG.docx",
+        "description": "CivicLoop found a meaningful change in this official source. Review the original record for the new detail.",
+        "eventDate": "2026-09-27",
+        "stage": "New update",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-community-a5463111dcf9ac"
+        ]
+      },
+      {
+        "id": "update-src-community-89e47a1aea10e0-b0d6875e8ee17cd5",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "eventType": "source_update_detected",
+        "title": "New public update detected: 260224_ACC_Public Meeting EN_FINAL-s.pdf",
+        "description": "CivicLoop found a meaningful change in this official source. Review the original record for the new detail.",
+        "eventDate": "2026-09-27",
+        "stage": "New update",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-community-89e47a1aea10e0"
+        ]
+      },
+      {
+        "id": "update-src-community-828b7b0476c3bf-3d2a46c092b47313",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "eventType": "source_update_detected",
+        "title": "New public update detected: Alexander Community Centre Expansion - What We Learned Report ENG.pdf",
+        "description": "CivicLoop found a meaningful change in this official source. Review the original record for the new detail.",
+        "eventDate": "2026-09-27",
+        "stage": "New update",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-community-828b7b0476c3bf"
+        ]
+      },
+      {
+        "id": "evt-community-3e371b0b921d6c",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "eventType": "tracking_started",
+        "title": "Community requested this case",
+        "description": "CivicLoop retrieved 4 directly linked official records and began monitoring this consultation.",
+        "eventDate": "2026-09-27",
+        "stage": "Discovery",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-community-3e371b0b921d6c",
+          "src-community-a5463111dcf9ac",
+          "src-community-89e47a1aea10e0",
+          "src-community-828b7b0476c3bf"
+        ]
+      }
+    ],
+    "feedback": [
+      {
+        "id": "fb-dcce17bd36beda",
+        "theme": "Top priority for a new gymnasium",
+        "summary": "Residents identified a new gymnasium as a top priority for improvements.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-3e371b0b921d6c",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "The survey identified a new gymnasium as a top priority for residents, and this clear community direction supported securing the external funding to advance the project."
+      },
+      {
+        "id": "fb-d35190e1dd01ed",
+        "theme": "Desire for expanded group activity spaces",
+        "summary": "Residents want more opportunities for group activities for children and adults.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-3e371b0b921d6c",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "These concepts included adding a full-size gymnasium and creating more increase opportunities for group activities for children and adults."
+      },
+      {
+        "id": "fb-9ca21595172156",
+        "theme": "Potential inclusion of a library",
+        "summary": "Some residents suggested potentially adding a library to the expansion.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-3e371b0b921d6c",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "These concepts included adding a full-size gymnasium and creating more increase opportunities for group activities for children and adults, such as day programs, events, meetings and potentially a library."
+      },
+      {
+        "id": "fb-f538d2ebe0094b",
+        "theme": "Kitchen requirements and location",
+        "summary": "A bigger kitchen that can accommodate two families cooking at the same time is requested. The kitchen should have access to greenspace or the courtyard.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-a5463111dcf9ac",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "A bigger kitchen that can accommodate two families cooking at the same time is requested. The kitchen should have access to greenspace or the courtyard."
+      },
+      {
+        "id": "fb-d5410bcbe1095c",
+        "theme": "Gymnasium configuration and storage",
+        "summary": "Respondents supported the gym to be able to be divided and access to storage from both sides of the gym divider is needed.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-a5463111dcf9ac",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "Respondents supported the provision of a teen lounge and computer space. A respondent commented that a dedicated library entrance is preferred. There was overall support for the gym to be able to be divided and access to storage from both sides of the gym divider is needed."
+      },
+      {
+        "id": "fb-99d864531d397f",
+        "theme": "Inclusivity and accessibility features",
+        "summary": "There was general support for the creation of a more inclusive and accessible facility that includes a gender-neutral washroom and change room.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-a5463111dcf9ac",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "There was general support for the creation of a more inclusive and accessible facility that includes a gender-neutral washroom and change room as well as renovations that would increase the light and space in the building."
+      },
+      {
+        "id": "fb-7b4a3e44d2768c",
+        "theme": "Preferred design option",
+        "summary": "Option 3 came forward as the preferred option to continue to develop as it affords the most advantages and fewest disadvantages.",
+        "responseStatus": "no_public_response",
+        "response": "No municipal response was found in this source.",
+        "feedbackSourceId": "src-community-a5463111dcf9ac",
+        "responseSourceId": null,
+        "verification": "needs_review",
+        "evidenceExcerpt": "The consultants reviewed all the feedback and based on the information Option 3 came forward as the preferred option to continue to develop as it affords the most advantages and fewest disadvantages."
+      }
+    ],
+    "commitments": [
+      {
+        "id": "com-432c44883812f9",
+        "action": "Host a public information session in February 2026",
+        "owner": "City of Ottawa",
+        "targetDate": "February 19, 2026",
+        "status": "planned",
+        "latestStatusAt": "2026-09-27",
+        "sourceId": "src-community-3e371b0b921d6c"
+      },
+      {
+        "id": "com-5f32b4a6e90188",
+        "action": "Renovate and expand the Alexander Community Centre building.",
+        "owner": "Not stated in the source",
+        "targetDate": null,
+        "status": "unknown",
+        "latestStatusAt": "2026-09-27",
+        "sourceId": "src-community-89e47a1aea10e0"
+      },
+      {
+        "id": "com-7ce9d5edf3c43f",
+        "action": "Review materials and treatments to ensure they meet programming and accessibility needs.",
+        "owner": "Consultants",
+        "targetDate": null,
+        "status": "planned",
+        "latestStatusAt": "2026-09-27",
+        "sourceId": "src-community-a5463111dcf9ac"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "rel-community-1be385502fd918",
+        "sourceId": "src-community-a5463111dcf9ac",
+        "targetId": "src-community-3e371b0b921d6c",
+        "relationshipType": "directly_linked_official_record",
+        "confidence": "strong_match",
+        "signals": [
+          {
+            "type": "official_direct_link",
+            "value": "This record was linked directly from the submitted official consultation page."
+          }
+        ],
+        "origin": "deterministic",
+        "humanVerified": false
+      },
+      {
+        "id": "rel-community-4635c8438629e4",
+        "sourceId": "src-community-89e47a1aea10e0",
+        "targetId": "src-community-3e371b0b921d6c",
+        "relationshipType": "directly_linked_official_record",
+        "confidence": "strong_match",
+        "signals": [
+          {
+            "type": "official_direct_link",
+            "value": "This record was linked directly from the submitted official consultation page."
+          }
+        ],
+        "origin": "deterministic",
+        "humanVerified": false
+      },
+      {
+        "id": "rel-community-d8b5bd9161c50c",
+        "sourceId": "src-community-828b7b0476c3bf",
+        "targetId": "src-community-3e371b0b921d6c",
+        "relationshipType": "directly_linked_official_record",
+        "confidence": "strong_match",
+        "signals": [
+          {
+            "type": "official_direct_link",
+            "value": "This record was linked directly from the submitted official consultation page."
+          }
+        ],
+        "origin": "deterministic",
+        "humanVerified": false
+      }
+    ],
+    "checkRuns": [
+      {
+        "id": "ebbdbdde-0848-44fc-8f80-b4156e777fc3",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-a5463111dcf9ac",
+        "startedAt": "2026-09-27T04:11:18.308Z",
+        "finishedAt": "2026-09-27T04:12:46.571Z",
+        "status": "success",
+        "changeFound": true,
+        "error": null,
+        "newEvents": 1,
+        "mode": "live"
+      },
+      {
+        "id": "11c7a38c-dcd0-4d1e-afe9-84e3eaa5358c",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-89e47a1aea10e0",
+        "startedAt": "2026-09-27T04:10:37.573Z",
+        "finishedAt": "2026-09-27T04:11:18.305Z",
+        "status": "success",
+        "changeFound": true,
+        "error": null,
+        "newEvents": 1,
+        "mode": "live"
+      },
+      {
+        "id": "b754d528-49c4-42dd-9601-484570d094fc",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-828b7b0476c3bf",
+        "startedAt": "2026-09-27T04:08:55.605Z",
+        "finishedAt": "2026-09-27T04:10:37.569Z",
+        "status": "success",
+        "changeFound": true,
+        "error": null,
+        "newEvents": 1,
+        "mode": "live"
+      },
+      {
+        "id": "e1992841-6caf-4f87-811e-31aa311df9db",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-3e371b0b921d6c",
+        "startedAt": "2026-09-27T04:08:55.113Z",
+        "finishedAt": "2026-09-27T04:08:55.602Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "899dae1d-bfd4-494f-87e1-acce759f9a9c",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-3e371b0b921d6c",
+        "startedAt": "2026-09-27T04:05:57.235Z",
+        "finishedAt": "2026-09-27T04:05:57.645Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "5894ac40-83a9-4963-b944-6daff3b2dc57",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-a5463111dcf9ac",
+        "startedAt": "2026-09-27T03:56:49.431Z",
+        "finishedAt": "2026-09-27T03:56:49.640Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "a388b97c-663c-46c5-aa26-00d096be9f19",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-89e47a1aea10e0",
+        "startedAt": "2026-09-27T03:56:49.030Z",
+        "finishedAt": "2026-09-27T03:56:49.431Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "6ee678c8-8323-4025-a310-291aedf8da59",
+        "consultationId": "con-community-3e371b0b921d6c",
+        "sourceId": "src-community-828b7b0476c3bf",
+        "startedAt": "2026-09-27T03:56:48.631Z",
+        "finishedAt": "2026-09-27T03:56:49.028Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      }
+    ]
+  },
+  "outcomes": [
+    {
+      "sourceId": "src-community-3e371b0b921d6c",
+      "status": "unchanged",
+      "newEvents": 0,
+      "semanticCalled": false
+    },
+    {
+      "sourceId": "src-community-828b7b0476c3bf",
+      "status": "changed",
+      "newEvents": 1,
+      "semanticCalled": true,
+      "semanticError": "Semantic evidence excerpt was not found in src-community-828b7b0476c3bf: Community feedback indicates a strong desire for multi-purpose spaces that can accommodate a range o"
+    },
+    {
+      "sourceId": "src-community-89e47a1aea10e0",
+      "status": "changed",
+      "newEvents": 1,
+      "semanticCalled": true
+    },
+    {
+      "sourceId": "src-community-a5463111dcf9ac",
+      "status": "changed",
+      "newEvents": 1,
+      "semanticCalled": true
+    }
+  ]
+}

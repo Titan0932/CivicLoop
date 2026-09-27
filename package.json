@@ -1,0 +1,43 @@
+{
+  "name": "civicloop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "db:seed": "tsx scripts/seed.ts",
+    "db:reset": "tsx scripts/seed.ts --reset",
+    "check-updates": "tsx scripts/check-updates.ts",
+    "check-consultation": "tsx scripts/check-consultation.ts",
+    "analyze-consultation": "tsx scripts/analyze-consultation.ts",
+    "monitor": "tsx scripts/monitor.ts",
+    "verify": "npm run lint && npm run typecheck && npm test && npm run build"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "cheerio": "^1.1.2",
+    "mammoth": "^1.13.0",
+    "next": "^16.0.0",
+    "openai": "^6.49.0",
+    "pdf-parse": "^2.4.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "^16.0.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.4"
+  }
+}

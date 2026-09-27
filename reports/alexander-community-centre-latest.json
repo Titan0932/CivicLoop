@@ -1,0 +1,139 @@
+{
+  "mode": "live_discovery",
+  "seedUrl": "https://engage.ottawa.ca/alexander-community-centre",
+  "checkedAt": "2026-09-26T20:11:55.843Z",
+  "records": [
+    {
+      "url": "https://engage.ottawa.ca/alexander-community-centre",
+      "title": "Alexander Community Centre Expansion Project",
+      "sourceSystem": "Engage Ottawa",
+      "identifiers": [
+        {
+          "type": "engage_page_id",
+          "value": "12522"
+        },
+        {
+          "type": "engage_widget_id",
+          "value": "59966"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "69376"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "165586"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "168581"
+        }
+      ],
+      "attachments": [
+        {
+          "title": "Alexander Community Centre_What We Learned_Survey 2021_ENG.docx (58.7 KB) (docx)",
+          "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376",
+          "documentId": "69376",
+          "projectId": "12522",
+          "widgetId": "59966"
+        },
+        {
+          "title": "ACC_Public Meeting Site Plan 2026_EN.pdf (2.83 MB) (pdf)",
+          "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586",
+          "documentId": "165586",
+          "projectId": "12522",
+          "widgetId": "59966"
+        },
+        {
+          "title": "Alexander Community Centre Expansion - What We Learned Report ENG.pdf (311 KB) (pdf)",
+          "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581",
+          "documentId": "168581",
+          "projectId": "12522",
+          "widgetId": "59966"
+        }
+      ],
+      "motionResult": null,
+      "contentHash": "862610d201288153f1b76e68c34d797fc7988c3acddcfdffc872be8d734e97a5",
+      "textPreview": "Skip To Skip to main content Jump to navigation Skip to tools Skip to additional project info Search IE10 and below are not supported. Google Chrome Mozilla Firefox Contact us for any help on browser support Menu FR Living in Ottawa Recreation and parks Garbage and recycling Health and public safety Parking, roads, and travel Jobs with the City Planning, development and construction Business Family and social services Arts, heritage and events City Hall 3-1-1 You are here: Home Alexander Community Centre Expansion Project Some content on this page may not display correctly. Please enable JavaScript in your browser&#39;s settings and refresh the page. Alexander Community Centre Expansion Project Share Alexander Community Centre Expansion Project on Facebook Share Alexander Community Centre Expansion Project on X (formerly Twitter) Share Alexander Community Centre Expansion Project on Link",
+      "retrievalStatus": "success"
+    },
+    {
+      "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376",
+      "title": "Alexander Community Centre_What We Heard_Survey 2_ENG.docx",
+      "sourceSystem": "Engage Ottawa",
+      "identifiers": [
+        {
+          "type": "engage_page_id",
+          "value": "12522"
+        },
+        {
+          "type": "engage_widget_id",
+          "value": "59966"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "69376"
+        }
+      ],
+      "attachments": [],
+      "motionResult": null,
+      "contentHash": "c5f48a8b2c66f763545610dd307e429004176af3b311646bf0bfb8144770ae0f",
+      "textPreview": "Skip To Skip to main content Jump to navigation Search IE10 and below are not supported. Google Chrome Mozilla Firefox Contact us for any help on browser support Menu FR Living in Ottawa Recreation and parks Garbage and recycling Health and public safety Parking, roads, and travel Jobs with the City Planning, development and construction Business Family and social services Arts, heritage and events City Hall 3-1-1 You are here: Home Alexander Community Centre Expansion Project Some content on this page may not display correctly. Please enable JavaScript in your browser&#39;s settings and refresh the page. Documents The file \"Alexander Community Centre_What We Heard_Survey 2_ENG.docx\" will begin downloading in a few seconds. Contact Us Contact Us 110 Laurier Avenue West Ottawa, ON K1P 1J1 3-1-1 613-580-2400 Client Service Centre About Us Other City Websites Moderation Privacy Statement Ac",
+      "retrievalStatus": "success"
+    },
+    {
+      "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586",
+      "title": "260224_ACC_Public Meeting EN_FINAL-s.pdf",
+      "sourceSystem": "Engage Ottawa",
+      "identifiers": [
+        {
+          "type": "engage_page_id",
+          "value": "12522"
+        },
+        {
+          "type": "engage_widget_id",
+          "value": "59966"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "165586"
+        }
+      ],
+      "attachments": [],
+      "motionResult": null,
+      "contentHash": "d889e3913c5bf4a1d5125332f03e4e3364886bd5a0119c2b377fc654f27ec116",
+      "textPreview": "Skip To Skip to main content Jump to navigation Search IE10 and below are not supported. Google Chrome Mozilla Firefox Contact us for any help on browser support Menu FR Living in Ottawa Recreation and parks Garbage and recycling Health and public safety Parking, roads, and travel Jobs with the City Planning, development and construction Business Family and social services Arts, heritage and events City Hall 3-1-1 You are here: Home Alexander Community Centre Expansion Project Some content on this page may not display correctly. Please enable JavaScript in your browser&#39;s settings and refresh the page. Documents The file \"260224_ACC_Public Meeting EN_FINAL-s.pdf\" will begin downloading in a few seconds. Contact Us Contact Us 110 Laurier Avenue West Ottawa, ON K1P 1J1 3-1-1 613-580-2400 Client Service Centre About Us Other City Websites Moderation Privacy Statement Accessibility Terms ",
+      "retrievalStatus": "success"
+    },
+    {
+      "url": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581",
+      "title": "Alexander Community Centre Expansion - What We Learned Report ENG.pdf",
+      "sourceSystem": "Engage Ottawa",
+      "identifiers": [
+        {
+          "type": "engage_page_id",
+          "value": "12522"
+        },
+        {
+          "type": "engage_widget_id",
+          "value": "59966"
+        },
+        {
+          "type": "engage_document_id",
+          "value": "168581"
+        }
+      ],
+      "attachments": [],
+      "motionResult": null,
+      "contentHash": "18f8a68658c30a7a1b3334f940c5a6c87db22d73dfd28a2c45e0d820663bb1b4",
+      "textPreview": "Skip To Skip to main content Jump to navigation Search IE10 and below are not supported. Google Chrome Mozilla Firefox Contact us for any help on browser support Menu FR Living in Ottawa Recreation and parks Garbage and recycling Health and public safety Parking, roads, and travel Jobs with the City Planning, development and construction Business Family and social services Arts, heritage and events City Hall 3-1-1 You are here: Home Alexander Community Centre Expansion Project Some content on this page may not display correctly. Please enable JavaScript in your browser&#39;s settings and refresh the page. Documents The file \"Alexander Community Centre Expansion - What We Learned Report ENG.pdf\" will begin downloading in a few seconds. Contact Us Contact Us 110 Laurier Avenue West Ottawa, ON K1P 1J1 3-1-1 613-580-2400 Client Service Centre About Us Other City Websites Moderation Privacy S",
+      "retrievalStatus": "success"
+    }
+  ],
+  "discoveredLinks": [
+    "https://engage.ottawa.ca/12522/widgets/59966/documents/69376",
+    "https://engage.ottawa.ca/12522/widgets/59966/documents/165586",
+    "https://engage.ottawa.ca/12522/widgets/59966/documents/168581"
+  ],
+  "coverageNote": "Discovery follows direct official links and exact attachment relationships only. Records in separate systems without an official link or known identifier remain review candidates, not asserted matches."
+}

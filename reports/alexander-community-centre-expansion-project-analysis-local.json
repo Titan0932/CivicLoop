@@ -1,0 +1,108 @@
+{
+  "consultation": {
+    "id": "con-community-3e371b0b921d6c",
+    "slug": "alexander-community-centre-expansion-project",
+    "title": "Alexander Community Centre Expansion Project"
+  },
+  "generatedAt": "2026-09-27T02:45:14.223Z",
+  "analyses": [
+    {
+      "sourceId": "src-community-3e371b0b921d6c",
+      "sourceTitle": "Alexander Community Centre Expansion Project",
+      "sourceUrl": "https://engage.ottawa.ca/alexander-community-centre",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": false,
+      "inputMode": "saved",
+      "contentHash": "862610d201288153f1b76e68c34d797fc7988c3acddcfdffc872be8d734e97a5",
+      "error": "UNIQUE constraint failed: semantic_cache.cache_key"
+    },
+    {
+      "sourceId": "src-community-a5463111dcf9ac",
+      "sourceTitle": "Alexander Community Centre_What We Heard_Survey 2_ENG.docx",
+      "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/69376",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": false,
+      "inputMode": "saved",
+      "contentHash": "c5f48a8b2c66f763545610dd307e429004176af3b311646bf0bfb8144770ae0f",
+      "result": {
+        "documentType": "consultation_results",
+        "projectAliases": [],
+        "relationship": {
+          "type": "unknown",
+          "confidenceLabel": "needs_review",
+          "rationale": "The text contains navigation menus and a download link but lacks specific project details, decisions, or feedback responses.",
+          "evidence": []
+        },
+        "summary": {
+          "points": [
+            {
+              "text": "The document provides a download link for a survey but contains no specific project details or decisions.",
+              "evidence": {
+                "sourceDocumentId": "src-community-a5463111dcf9ac",
+                "excerpt": "Documents The file \"Alexander Community Centre_What We Heard_Survey 2_ENG.docx\" will begin downloading in a few seconds."
+              }
+            },
+            {
+              "text": "The document contains general city navigation and contact information but no specific feedback responses.",
+              "evidence": {
+                "sourceDocumentId": "src-community-a5463111dcf9ac",
+                "excerpt": "Contact Us 110 Laurier Avenue West Ottawa, ON K1P 1J1 3-1-1 613-580-2400 Client Service Centre"
+              }
+            }
+          ]
+        },
+        "feedbackThemes": [],
+        "commitments": []
+      }
+    },
+    {
+      "sourceId": "src-community-89e47a1aea10e0",
+      "sourceTitle": "260224_ACC_Public Meeting EN_FINAL-s.pdf",
+      "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/165586",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": false,
+      "inputMode": "saved",
+      "contentHash": "d889e3913c5bf4a1d5125332f03e4e3364886bd5a0119c2b377fc654f27ec116",
+      "error": "UNIQUE constraint failed: semantic_cache.cache_key"
+    },
+    {
+      "sourceId": "src-community-828b7b0476c3bf",
+      "sourceTitle": "Alexander Community Centre Expansion - What We Learned Report ENG.pdf",
+      "sourceUrl": "https://engage.ottawa.ca/12522/widgets/59966/documents/168581",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": true,
+      "inputMode": "saved",
+      "contentHash": "18f8a68658c30a7a1b3334f940c5a6c87db22d73dfd28a2c45e0d820663bb1b4",
+      "result": {
+        "documentType": "consultation_results",
+        "projectAliases": [],
+        "relationship": {
+          "type": "unknown",
+          "confidenceLabel": "needs_review",
+          "rationale": "The text contains navigation menus and a download link but lacks specific project details, decisions, or feedback analysis.",
+          "evidence": []
+        },
+        "summary": {
+          "points": [
+            {
+              "text": "The document provides a download link for a report on the Alexander Community Centre Expansion Project.",
+              "evidence": {
+                "sourceDocumentId": "src-community-828b7b0476c3bf",
+                "excerpt": "Documents The file \"Alexander Community Centre Expansion - What We Learned Report ENG.pdf\" will begin downloading in a few seconds."
+              }
+            },
+            {
+              "text": "The document does not contain specific project status, decisions, or public feedback responses.",
+              "evidence": {
+                "sourceDocumentId": "src-community-828b7b0476c3bf",
+                "excerpt": "Some content on this page may not display correctly. Please enable JavaScript in your"
+              }
+            }
+          ]
+        },
+        "feedbackThemes": [],
+        "commitments": []
+      }
+    }
+  ]
+}

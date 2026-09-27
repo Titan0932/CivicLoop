@@ -1,0 +1,60 @@
+{
+  "consultation": {
+    "id": "con-community-gardens",
+    "slug": "community-led-green-initiatives",
+    "title": "Community-led Green Initiatives and Garden Program"
+  },
+  "generatedAt": "2026-09-26T20:43:48.848Z",
+  "analyses": [
+    {
+      "sourceId": "src-garden-decision",
+      "sourceTitle": "Community-led Green Initiatives and Garden Program — Council minutes",
+      "sourceUrl": "https://pub-ottawa.escribemeetings.com/Meeting.aspx?Agenda=PostMinutes&Id=a016f492-7ff8-4635-8186-b541536253f6&Item=63&Tab=attachments&lang=English",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": true,
+      "inputMode": "saved",
+      "contentHash": "81638a5019a90e0c8c949cb68e09f586dd770bb9aaa4f686cc5b736ff4077da6",
+      "result": {
+        "documentType": "decision",
+        "projectAliases": [],
+        "relationship": {
+          "type": "unknown",
+          "confidenceLabel": "needs_review",
+          "rationale": "The text mentions a program but does not explicitly link it to a specific project or other document.",
+          "evidence": []
+        },
+        "summary": {
+          "points": [
+            {
+              "text": "The document proposes formalizing a city-wide program for community-led green initiatives.",
+              "evidence": {
+                "sourceDocumentId": "src-garden-decision",
+                "excerpt": "Formalize a City-wide program, delegate authority to develop and implement it, and expand the policy statement to recognize community-led green initiatives."
+              }
+            },
+            {
+              "text": "The meeting record states that the motion or recommendation was carried.",
+              "evidence": {
+                "sourceDocumentId": "src-garden-decision",
+                "excerpt": "Carried."
+              }
+            }
+          ]
+        },
+        "feedbackThemes": [],
+        "commitments": [
+          {
+            "action": "Formalize a City-wide program",
+            "owner": null,
+            "targetDate": null,
+            "status": "unknown",
+            "evidence": {
+              "sourceDocumentId": "src-garden-decision",
+              "excerpt": "Formalize a City-wide program, delegate authority to develop and implement it, and expand the policy statement to recognize community-led green initiatives."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Status
+
+- Completed: full P0 MVP plus search/status/topic filters, local saves, analytics summary, check history, responsive layout, guarded community case ingestion, cumulative request records, live browser checks, due-time monitoring with retry backoff, shared in-app activity notifications, automatic grounded local MLX/Qwen enrichment, and optional hosted OpenAI provider.
+- Demo data: two Ottawa consultations, five official source records, seven seeded lifecycle events, four feedback/response mappings, and three commitments.
+- Known constraints: reset seeds only the two curated cases; live source structure is not a stable public API; external notifications and user accounts are not implemented; a host must run the monitor continuously or invoke it on a schedule; large-scale human review tooling is not implemented.
+
+Latest live verification (2026-09-26): submitting Alexander Community Centre through the dashboard API created a reusable third case, retrieved four of four directly linked official records, scheduled monitoring, published activity notifications, and automatically cached four grounded local Qwen analyses. Re-submitting the seeded Field Street URL resolved to the existing case without rediscovery. A live monitoring cycle checked three consultations and nine sources with no failures, and the browser live-check endpoint correctly skipped AI for unchanged content. ESLint, strict TypeScript, 24 tests across 9 files, and the Next.js production build all pass.

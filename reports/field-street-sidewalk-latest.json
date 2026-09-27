@@ -1,0 +1,243 @@
+{
+  "mode": "live_refresh",
+  "consultation": {
+    "id": "con-field-street",
+    "slug": "field-street-sidewalk",
+    "title": "Field Street Sidewalk",
+    "aliases": [],
+    "summary": "A missing-link sidewalk project where public concerns about trees and drainage led to documented design revisions.",
+    "topic": "Walking & streets",
+    "location": "Field Street, Woodroffe Avenue to Iris Street",
+    "ward": "Ward 8 — College",
+    "department": "Infrastructure and Water Services",
+    "openedAt": "2023-05-24",
+    "closedAt": "2023-06-23",
+    "status": "implementation_underway",
+    "latestUpdateAt": "2023-11-01",
+    "lastCheckedAt": "2026-09-26T20:10:46.737Z",
+    "matchLabel": "verified",
+    "sources": [
+      {
+        "id": "src-field-page",
+        "consultationId": "con-field-street",
+        "url": "https://engage.ottawa.ca/field-street-sidewalk",
+        "title": "Field Street Sidewalk",
+        "documentType": "consultation_page",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": "2023-05-24",
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "37100",
+            "sourceUrl": "https://engage.ottawa.ca/field-street-sidewalk"
+          }
+        ],
+        "contentHash": "ddc8de44fe6adda09d38c06a6d86127ebb71c486b8cd7a412a165f098c4ca033",
+        "firstSeenAt": "2023-05-24T00:00:00.000Z",
+        "lastCheckedAt": "2026-09-26T20:10:46.532Z",
+        "lastChangedAt": "2023-11-01T00:00:00.000Z",
+        "nextCheckAt": "2026-10-03T14:00:00.000Z",
+        "cadence": "weekly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": "/Users/testuser/Documents/MyFiles/projects/hackathon/CivicLoop/fixtures/engage-field-street.html",
+        "liveContentHash": "3aa79ce8140526e6734c9ebaf07066caf84a1e52c35f834657c36698f4650e3c",
+        "lastLiveCheckedAt": "2026-09-26T20:10:46.532Z"
+      },
+      {
+        "id": "src-field-results",
+        "consultationId": "con-field-street",
+        "url": "https://engage.ottawa.ca/37100/widgets/161486/documents/112135",
+        "title": "As-We-Heard-It Report",
+        "documentType": "consultation_results",
+        "sourceSystem": "Engage Ottawa",
+        "publishedAt": "2023-08-01",
+        "identifiers": [
+          {
+            "type": "engage_page_id",
+            "value": "37100",
+            "sourceUrl": "https://engage.ottawa.ca/37100/widgets/161486/documents/112135"
+          },
+          {
+            "type": "engage_widget_id",
+            "value": "161486",
+            "sourceUrl": "https://engage.ottawa.ca/37100/widgets/161486/documents/112135"
+          },
+          {
+            "type": "engage_document_id",
+            "value": "112135",
+            "sourceUrl": "https://engage.ottawa.ca/37100/widgets/161486/documents/112135"
+          }
+        ],
+        "contentHash": "ddc8de44fe6adda09d38c06a6d86127ebb71c486b8cd7a412a165f098c4ca033",
+        "firstSeenAt": "2023-08-01T00:00:00.000Z",
+        "lastCheckedAt": "2026-09-26T20:10:46.734Z",
+        "lastChangedAt": "2023-08-01T00:00:00.000Z",
+        "nextCheckAt": "2026-10-26T14:00:00.000Z",
+        "cadence": "monthly",
+        "checkStatus": "success",
+        "consecutiveErrors": 0,
+        "fixturePath": "/Users/testuser/Documents/MyFiles/projects/hackathon/CivicLoop/fixtures/engage-field-street.html",
+        "liveContentHash": "2220fd90fd517332b459d32a419e7ab865968662808ce6d599175f97f87acb94",
+        "lastLiveCheckedAt": "2026-09-26T20:10:46.734Z"
+      }
+    ],
+    "events": [
+      {
+        "id": "evt-field-revision",
+        "consultationId": "con-field-street",
+        "eventType": "implementation_update",
+        "title": "Design revised after public concerns",
+        "description": "The sidewalk was narrowed and shifted in one segment to reduce tree risk; tree replacement and parking changes were also documented.",
+        "eventDate": "2023-11-01",
+        "stage": "Implementation",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-field-page"
+        ]
+      },
+      {
+        "id": "evt-field-results",
+        "consultationId": "con-field-street",
+        "eventType": "results_published",
+        "title": "Survey findings published",
+        "description": "An As-We-Heard-It report summarized feedback from the survey, phone, and email channels.",
+        "eventDate": "2023-08-01",
+        "stage": "Results",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-field-results"
+        ]
+      },
+      {
+        "id": "evt-field-open",
+        "consultationId": "con-field-street",
+        "eventType": "consultation_opened",
+        "title": "Public consultation opened",
+        "description": "The City held a virtual open house and invited comments on a proposed sidewalk along Field Street.",
+        "eventDate": "2023-05-24",
+        "stage": "Consultation",
+        "confidence": "confirmed",
+        "sourceIds": [
+          "src-field-page"
+        ]
+      }
+    ],
+    "feedback": [
+      {
+        "id": "fb-field-trees",
+        "theme": "Protect existing trees",
+        "summary": "Residents raised concerns about the effect of the sidewalk alignment on mature trees.",
+        "responseStatus": "addressed",
+        "response": "The design was narrowed to 1.8 m and shifted farther into the street for part of the corridor to reduce tree risk.",
+        "feedbackSourceId": "src-field-results",
+        "responseSourceId": "src-field-page",
+        "verification": "verified",
+        "evidenceExcerpt": "The design concept has been slightly revised in response to public concerns about the health of existing trees and storm drainage."
+      },
+      {
+        "id": "fb-field-drainage",
+        "theme": "Storm drainage impacts",
+        "summary": "Residents asked the City to account for drainage when revising the design.",
+        "responseStatus": "acknowledged",
+        "response": "The update explicitly names storm drainage as a reason for revision, but the saved public text does not specify a separate drainage intervention.",
+        "feedbackSourceId": "src-field-results",
+        "responseSourceId": "src-field-page",
+        "verification": "verified",
+        "evidenceExcerpt": "...revised in response to public concerns about the health of existing trees and storm drainage."
+      }
+    ],
+    "commitments": [
+      {
+        "id": "com-field-trees",
+        "action": "Replace each of the two removed trees with two new trees.",
+        "owner": "City of Ottawa project team",
+        "targetDate": null,
+        "status": "planned",
+        "latestStatusAt": "2023-11-01",
+        "sourceId": "src-field-page"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "rel-field-parent",
+        "sourceId": "src-field-results",
+        "targetId": "src-field-page",
+        "relationshipType": "results_report_for",
+        "confidence": "verified",
+        "signals": [
+          {
+            "type": "explicit_parent_relationship",
+            "value": "Document 112135 belongs to widget 161486 under Engage project 37100."
+          }
+        ],
+        "origin": "deterministic",
+        "humanVerified": true
+      }
+    ],
+    "checkRuns": [
+      {
+        "id": "252da9ce-6241-4b05-950a-ec2b5e507772",
+        "consultationId": "con-field-street",
+        "sourceId": "src-field-results",
+        "startedAt": "2026-09-26T20:10:46.536Z",
+        "finishedAt": "2026-09-26T20:10:46.734Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "13b729c1-246f-40f4-b531-3b89b8776cc4",
+        "consultationId": "con-field-street",
+        "sourceId": "src-field-page",
+        "startedAt": "2026-09-26T20:10:46.148Z",
+        "finishedAt": "2026-09-26T20:10:46.532Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "8a1e1b53-5d1c-4c08-be93-77dbe5396612",
+        "consultationId": "con-field-street",
+        "sourceId": "src-field-results",
+        "startedAt": "2026-09-26T20:10:42.878Z",
+        "finishedAt": "2026-09-26T20:10:43.060Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      },
+      {
+        "id": "558ef552-ea39-4a31-b2cc-6ef351a799dd",
+        "consultationId": "con-field-street",
+        "sourceId": "src-field-page",
+        "startedAt": "2026-09-26T20:10:42.506Z",
+        "finishedAt": "2026-09-26T20:10:42.875Z",
+        "status": "success",
+        "changeFound": false,
+        "error": null,
+        "newEvents": 0,
+        "mode": "live"
+      }
+    ]
+  },
+  "outcomes": [
+    {
+      "sourceId": "src-field-page",
+      "status": "unchanged",
+      "newEvents": 0,
+      "semanticCalled": false
+    },
+    {
+      "sourceId": "src-field-results",
+      "status": "unchanged",
+      "newEvents": 0,
+      "semanticCalled": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "consultation": {
+    "id": "con-field-street",
+    "slug": "field-street-sidewalk",
+    "title": "Field Street Sidewalk"
+  },
+  "generatedAt": "2026-09-26T20:44:25.946Z",
+  "analyses": [
+    {
+      "sourceId": "src-field-page",
+      "sourceTitle": "Field Street Sidewalk",
+      "sourceUrl": "https://engage.ottawa.ca/field-street-sidewalk",
+      "provider": "local:mlx-community/Qwen3.5-9B-4bit@http://127.0.0.1:8001/v1",
+      "cached": true,
+      "inputMode": "live",
+      "contentHash": "3aa79ce8140526e6734c9ebaf07066caf84a1e52c35f834657c36698f4650e3c",
+      "result": {
+        "documentType": "consultation_results",
+        "projectAliases": [],
+        "relationship": {
+          "type": "unknown",
+          "confidenceLabel": "needs_review",
+          "rationale": "The text describes a project page that has moved and references a separate status update document, but does not explicitly define the relationship between this specific page and the project.",
+          "evidence": []
+        },
+        "summary": {
+          "points": [
+            {
+              "text": "The public consultation for the Field Street Sidewalk project has officially concluded.",
+              "evidence": {
+                "sourceDocumentId": "src-field-page",
+                "excerpt": "Consultation has concluded"
+              }
+            }
+          ]
+        },
+        "feedbackThemes": [
+          {
+            "theme": "Tree health and storm drainage concerns",
+            "residentConcern": "Public concerns about the health of existing trees and storm drainage.",
+            "responseStatus": "addressed",
+            "municipalResponse": "The design concept has been slightly revised in response to public concerns about the health of existing trees and storm drainage.",
+            "feedbackEvidence": {
+              "sourceDocumentId": "src-field-page",
+              "excerpt": "The design concept has been slightly revised in response to public concerns about the health of existing trees and storm drainage."
+            },
+            "responseEvidence": {
+              "sourceDocumentId": "src-field-page",
+              "excerpt": "The design concept has been slightly revised in response to public concerns about the health of existing trees and storm drainage."
+            }
+          }
+        ],
+        "commitments": [
+          {
+            "action": "Install a new 2.0 metre wide concrete sidewalk on the east/south side of Field Street between Woodroffe Avenue and Major Street, approximately 220 m in length.",
+            "owner": "City of Ottawa",
+            "targetDate": null,
+            "status": "planned",
+            "evidence": {
+              "sourceDocumentId": "src-field-page",
+              "excerpt": "The City of Ottawa invites you to provide your comments on the proposed construction of a new 2.0 metre wide concrete sidewalk on the east/south side of Field Street between Woodroffe Avenue and Major Street, approximately 220 m in"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
